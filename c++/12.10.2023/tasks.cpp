@@ -205,16 +205,3 @@ void task_6() {
   cout << endl;
 }
 int main() { task_6(); }
-
-/*
-for (int j = 0; j < whole_string.length(); j++, tmp = 0) {
-    for (int i = 0; i < substring.length(); i++) {
-      if (whole_string[j] == substring[i])
-        tmp++;
-      else
-        i = 0;
-      if (longest < tmp)
-        longest = tmp;
-    }
-  }
-  */
