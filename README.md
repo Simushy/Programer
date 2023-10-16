@@ -1,3 +1,1 @@
 # Programer
-
-akdajdna
