@@ -195,11 +195,11 @@ void task_6() {
     }
   }
   cout << "Skipped " << non_number << " non-numbers\n";
-  cout << "There were " << even << " even numbers which are:\n";
+  cout << "There were " << even << " even numbers:\n";
   for (int i = 0; i < even; i++)
     cout << even_arr[i] << ", ";
   cout << endl;
-  cout << "There were " << odd << " odd numbers which are:\n";
+  cout << "There were " << odd << " odd numbers:\n";
   for (int i = 0; i < odd; i++)
     cout << odd_arr[i] << ", ";
   cout << endl;
