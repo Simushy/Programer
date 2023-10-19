@@ -1,1 +1,5 @@
-
+- Download all files here 
+- Open Visual Studio project (c++)
+- Copy all files to header files folder
+- Add #include "{file name}.h"
+- All done!
