@@ -6,8 +6,7 @@
 using namespace std;
 enum ErrorCode {
 	UserTerminated,
-	ConversionError,
-	test1
+	ConversionError
 };
 extern std::map<ErrorCode, string> ErrorMessage;
 
