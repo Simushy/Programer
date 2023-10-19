@@ -5,6 +5,5 @@ using namespace std;
 
 std::map<ErrorCode, std::string> ErrorMessage = {
     {UserTerminated, "You exitted program!\n"},
-    {ConversionError, "Could not convert\n"},
-    {test1, "Don't mind me ;)\n"}
+    {ConversionError, "Could not convert\n"}
 };
