@@ -204,4 +204,28 @@ void task_6() {
     cout << odd_arr[i] << ", ";
   cout << endl;
 }
-int main() { task_6(); }
+int main() {
+  cout << "Enter task number:";
+  int task;
+  cin >> task;
+  switch (task) {
+  case 1:
+    task_1();
+    break;
+  case 2:
+    task_2();
+    break;
+  case 3:
+    task_3();
+    break;
+  case 4:
+    task_4();
+    break;
+  case 5:
+    task_5();
+    break;
+  case 6:
+    task_6();
+    break;
+  }
+}
