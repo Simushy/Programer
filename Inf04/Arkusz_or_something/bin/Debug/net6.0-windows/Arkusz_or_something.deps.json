@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arkusz_or_something/1.0.0": {
+        "runtime": {
+          "Arkusz_or_something.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arkusz_or_something/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
